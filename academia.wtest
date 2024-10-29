@@ -16,7 +16,7 @@ describe "Academia de Magia" {
 	const gabineteMagico = null // TODO: construir/obtener un gabinete mágico con la varita dentro. El precio = 6 (segunda parte)
 	const armario = null // TODO: construir/obtener un armario con cantidad máxima = 2 y la pelota dentro
 	const academia = null // TODO: construir/obtener una academia que tiene el baúl, el gabinete mágico y el armario
-
+	
 /* ACLARACIÓN
  * Los tests están comentados para evitar errores y warnings, así poder ir incorporándolos 
  * a medida que se avanza con la solución del ejercicio
